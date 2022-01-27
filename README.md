@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi okay bye
 
 <!--
 **n0mood/n0mood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
