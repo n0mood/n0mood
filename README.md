@@ -6,7 +6,6 @@
 </p>
   <p align="center">
 <a href="">
-      <img src=""/>
     </a>
     <a href="https://en.wikipedia.org/wiki/Leet">
     </a>
