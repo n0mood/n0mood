@@ -4,12 +4,7 @@
  <h2 align="center">n0mood</h2>
  <p align="center"></p>
 </p>
-  <p align="center">
-<a href="">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Leet">
-    </a>
-    <br />
+
 <!--
 **n0mood/n0mood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
