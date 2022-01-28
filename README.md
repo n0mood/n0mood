@@ -1,6 +1,6 @@
 ### Hi okay bye
 <p align="center">
- <img width="100px" src="https://lh3.googleusercontent.com/fNxbMXlsgJi8D1dwnTnmTBAfwZsrAVS2WrU3EtpmZtiBLer0oU62Rmk-9FGiT2j-0tSO3O5dQvVa7dcs0uK3SZjZFwhXi6K0gZ9HLpOc" />
+ <img width="100px" src="https://cdn.discordapp.com/attachments/672114005111734289/934379713898610718/unknown.png" />
  <h2 align="center">n0mood</h2>
  <p align="center"></p>
 </p>
