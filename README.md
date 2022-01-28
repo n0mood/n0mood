@@ -1,12 +1,12 @@
 ### Hi okay bye
 <p align="center">
- <img width="100px" src="https://tenor.com/view/stare-anime-death-stare-anime-huh-kanojo-okarishimasu-scary-look-gif-17913844" align="center" alt="Kwitty" />
+ <img width="100px" src="https://cdn.discordapp.com/attachments/672114005111734289/934379713898610718/unknown.png" />
  <h2 align="center">n0mood</h2>
  <p align="center"></p>
 </p>
   <p align="center">
 <a href="">
-      <img src="https://cdn.discordapp.com/attachments/672114005111734289/934379713898610718/unknown.png"/>
+      <img src="https://cdn.discordapp.com/attachments/672114005111734289/936457550893842432/bun1.png"/>
     </a>
     <a href="https://en.wikipedia.org/wiki/Leet">
     </a>
